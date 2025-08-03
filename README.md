@@ -17,8 +17,6 @@ This project is a **Content-Based Movie Recommendation System** that recommends 
 
 The project uses a **custom movie dataset** containing movie titles, genres, overviews, and other metadata.
 
-> Note: This dataset was manually downloaded and does **not** use the Kaggle TMDB 5000 dataset. File names may differ (e.g., `tmdb_5000_movies[1].csv`, `tmdb_5000_credits[2].csv`).
-
 You can replace the dataset with any structured movie data that includes:
 - Movie titles
 - Descriptions/overviews
